@@ -18,7 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Himanshu Goyal (How to pronounce my name) . I am a computer science master's student at Georgia Tech. I am interested in developing large-scale secure systems using ideas from cryptography, system security, and systems. Earlier this year, I graduated from the Indian Institute of Technology Bhubaneswar with a Dual-Degree in Computer Science and Engineering. As part of my master's thesis, I focussed on building trustworthy decentralized IoT/WSNs systems. I was advised by Dr. Sudipta Saha. I am also closely associated with Decentralized and Smart Systems Research Group (DSSRG) at IIT Bhubaneswar.
+Hi all, 
+
+
+I'm Sai Prasath (How to pronounce my name) . I am a computer science master's student at Georgia Tech. I am interested in developing large-scale secure systems using ideas from cryptography, system security, and systems. Earlier this year, I graduated from the Indian Institute of Technology Bhubaneswar with a Dual-Degree in Computer Science and Engineering. As part of my master's thesis, I focussed on building trustworthy decentralized IoT/WSNs systems. I was advised by Dr. Sudipta Saha. I am also closely associated with Decentralized and Smart Systems Research Group (DSSRG) at IIT Bhubaneswar.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
