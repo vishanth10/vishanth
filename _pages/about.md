@@ -2,28 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSCS at Georgia Tech
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Atlanta, Georgia, US</p>
+    <p> <br> </p>
+    <p> <br> </p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi all, 
+Hi! I'm Sai Prasath Suresh, a first year MS student at [GeorgiaTech](https://www.gatech.edu/) majoring in Computer Science with a specialization in Machine Learning. In May 2022, I graduated from the [Indian Institute of Technology(IIT) Bhubaneswar](https://www.iitbbs.ac.in/) with a BS/MS degree in Computer Science and Engineering. 
+
+I'm passionate about solving complex real-world problems from a data driven perspective using **Machine Learning and Deep Learning** approaches. Considering the enormous scale and complexity at which businesses operate today, I believe that utilizing AI to drive business decisions and extract knowledge out of raw data is essential. 
 
 
-I'm Sai Prasath (How to pronounce my name) . I am a computer science master's student at Georgia Tech. I am interested in developing large-scale secure systems using ideas from cryptography, system security, and systems. Earlier this year, I graduated from the Indian Institute of Technology Bhubaneswar with a Dual-Degree in Computer Science and Engineering. As part of my master's thesis, I focussed on building trustworthy decentralized IoT/WSNs systems. I was advised by Dr. Sudipta Saha. I am also closely associated with Decentralized and Smart Systems Research Group (DSSRG) at IIT Bhubaneswar.
+Previously, I've worked across various domains in Machine Learning including Reinforement Learning, Continual Learning, Adversarial ML, and Natural Language Processing. Through multiple internships and projects, I've developed a deep understanding of various AI/ML concepts and tools. 
 
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**I'm actively looking for Summer 2023 Internship opportunities in Data Science and Machine Learning**.  
