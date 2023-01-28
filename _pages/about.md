@@ -1,13 +1,13 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: MSCS at Georgia Tech
 
 profile:
   align: left
   image: my_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Atlanta, Georgia, US</p>
     <p> <br> </p>
