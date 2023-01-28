@@ -9,7 +9,7 @@ nav_order: 3
 
 <hr style="border:2px solid gray">
 
-#### **MS in Computer Science (Machine Leanring)**
+#### **MS in Computer Science (Machine Learning)**
 #### Georgia Institute of Technology
 
 Aug 2022 - Apr 2024 (Expected)
