@@ -20,9 +20,11 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm Sai Prasath Suresh, a first year MS student at [GeorgiaTech](https://www.gatech.edu/) majoring in Computer Science with a specialization in Machine Learning. In May 2022, I graduated from the [Indian Institute of Technology(IIT) Bhubaneswar](https://www.iitbbs.ac.in/) with a BS/MS degree in Computer Science and Engineering. 
 
-I'm passionate about solving complex real-world problems from a data driven perspective using **Machine Learning and Deep Learning** approaches. Considering the enormous scale and complexity at which businesses operate today, I believe that utilizing AI to drive business decisions and extract knowledge out of raw data is essential. 
+My primary interest lies in utilizing Machine Learning and Deep Learning approaches to solve complex real-world problems from a data-driven perspective. Currently, I am intrigued by the intersection of **language, graphs, and reinforcement learning** with a particular focus on exploring the impact of the recent proliferation of generative AI technologies such as ChatGPT on our lives.**
 
 
-Previously, I've worked across various domains in Machine Learning including Reinforement Learning, Continual Learning, Adversarial ML, and Natural Language Processing. Through multiple internships and projects, I've developed a deep understanding of various AI/ML concepts and tools. 
+Previously, I've worked across various domains in Machine Learning including Natural Language Processing, Reinforement Learning, Continual Learning, and Adversarial ML. Through multiple internships and projects, I've developed a deep understanding of various AI/ML concepts and tools. 
 
-**I'm actively looking for Summer 2023 Internship opportunities in Data Science and Machine Learning**.  
+**I'm actively looking for Fall 2023 Coop opportunities in ML/AI (applied science roles)**.  
+
+**Credit: ChatGPT

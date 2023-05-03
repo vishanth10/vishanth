@@ -16,9 +16,9 @@ Aug 2022 - Apr 2024 (Expected)
 
 **GPA:** 4.0/4.0
 
-**Courses:** Machine Learning, Natural Language Processing, Web Search and Text Mining, Interactive Robot Learning, Algorithms
+**Courses:** Machine Learning, Natural Language Processing, Web Search and Text Mining, Interactive Robot Learning, Algorithms, Knowledge Based AI
 
-***
+<hr style="border:1px solid gray">
 
 #### **BS/MS in Computer Science and Engineering**
 #### Indian Institute of Technology (IIT) Bhubaneswar
@@ -36,4 +36,4 @@ Jul 2017 - May 2022
 - **S. Prasath**, K. Sethi, D. Mohanty, P. Bera and S. R. Samantaray, ["Analysis of Continual Learning Models for Intrusion Detection System,"](https://ieeexplore.ieee.org/document/9953983) in IEEE Access, vol. 10, pp. 121444-121464, 2022, doi: 10.1109/ACCESS.2022.3222715.
 - D. Mohanty, K. Sethi, **S. Prasath**, R. R. Rout and P. Bera, ["Intelligent Intrusion Detection System for Smart Grid Applications,"](https://ieeexplore.ieee.org/document/9478200) 2021 International Conference on Cyber Situational Awareness, Data Analytics and Assessment (CyberSA), Dublin, Ireland, 2021, pp. 1-8, doi: 10.1109/CyberSA52016.2021.9478200.
 
-***
+<hr style="border:1px solid gray">
