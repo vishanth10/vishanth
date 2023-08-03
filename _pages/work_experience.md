@@ -11,7 +11,7 @@ nav_order: 4
 
 #### **Graduate Research Assistant**  
 
-Jan 2023 - Present
+Jan 2023 - May 2023
 
 [Institute for People and Technology (IPaT)](https://research.gatech.edu/ipat), GeorgiaTech, Atlanta, US
 
