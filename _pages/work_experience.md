@@ -9,7 +9,27 @@ nav_order: 4
 
 <hr style="border:2px solid gray">
 
-#### **Graduate Research Assistant**  
+<figure style="display: flex; align-items: center;">
+    <img src="../assets/img/keysight.png"  alt="Sample Image" style="width:80px; margin-right: 10px;"/>
+    <figcaption>
+        <span style="font-size: 25px;"><b>ML/AI Intern</b></span><br>
+    </figcaption>
+</figure>
+
+May 2023 - Aug 2023
+
+[Keysight Labs](https://research.gatech.edu/ipat): Advanced Software Development Center, Atlanta, US
+
+- Worked on robustness and explainability of deep learning models. 
+
+<hr style="border:1px solid gray">
+
+<figure style="display: flex; align-items: center;">
+    <img src="../assets/img/ipat.jpeg"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+    <figcaption>
+        <span style="font-size: 25px;"><b>Graduate Research Assistant</b></span><br>
+    </figcaption>
+</figure>
 
 Jan 2023 - May 2023
 
@@ -20,7 +40,12 @@ Jan 2023 - May 2023
 
 <hr style="border:1px solid gray">
 
-#### **Deep Learning Intern** 
+<figure style="display: flex; align-items: center;">
+    <img src="../assets/img/itrust.png"  alt="Sample Image" style="width:70px; margin-right: 10px;"/>
+    <figcaption>
+        <span style="font-size: 25px;"><b>Deep Learning Intern</b></span><br>
+    </figcaption>
+</figure>
 
 Sep 2021 - Apr 2022
 
@@ -37,7 +62,12 @@ Sep 2021 - Apr 2022
 
 <hr style="border:1px solid gray">
 
-#### **Machine Learning Intern** 
+<figure style="display: flex; align-items: center;">
+    <img src="../assets/img/fraunhofer.png"  alt="Sample Image" style="width:80px; margin-right: 10px;"/>
+    <figcaption>
+        <span style="font-size: 25px;"><b>Machine Learning Intern</b></span><br>
+    </figcaption>
+</figure>
 
 Sep 2021 - Apr 2022
 
@@ -50,7 +80,14 @@ autoencoder.
 
 <hr style="border:1px solid gray">
 
-#### **Covid-19 Modeling Intern** 
+<figure style="display: flex; align-items: center;">
+    <img src="../assets/img/uoa.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+    <figcaption>
+        <span style="font-size: 25px;"><b>Covid-19 Modeling Intern</b></span><br>
+    </figcaption>
+</figure>
+
+<!-- #### **Covid-19 Modeling Intern**  -->
 
 Jul 2020 - Sep 2020
 

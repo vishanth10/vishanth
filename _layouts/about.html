@@ -11,6 +11,8 @@ layout: default
           <p class="desc">{{ page.subtitle }}</p>
         </header>
 
+        <hr>
+
         <article>
           {% if page.profile -%}
           <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
@@ -40,6 +42,8 @@ layout: default
             {{ content }}
           </div>
 
+          <hr>
+
           <!-- News -->
           {% if page.news -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">News</a></h2>
@@ -51,6 +55,8 @@ layout: default
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
+
+          <hr>
 
           <!-- Social -->
           {%- if page.social %}
