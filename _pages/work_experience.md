@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /work_experience/
-title: Work Experience
+title: Experience
 description: 
 nav: true
 nav_order: 4
@@ -10,9 +10,24 @@ nav_order: 4
 <hr style="border:2px solid gray">
 
 <figure style="display: flex; align-items: center;">
+    <img src="../assets/img/claws.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+    <figcaption>
+        <span style="font-size: 25px;"><b>Graduate Student Researcher</b></span><br>
+    </figcaption>
+</figure>
+
+Aug 2023 - Present
+
+[Computational Data Science Lab for the Web and Social Media](https://faculty.cc.gatech.edu/~srijan/), GeorgiaTech, Atlanta, US
+
+- Studying the behaviour of LLMs and their applications in countering mis-information
+
+<hr style="border:1px solid gray">
+
+<figure style="display: flex; align-items: center;">
     <img src="../assets/img/keysight.png"  alt="Sample Image" style="width:80px; margin-right: 10px;"/>
     <figcaption>
-        <span style="font-size: 25px;"><b>ML/AI Intern</b></span><br>
+        <span style="font-size: 25px;"><b>Machine Learning R&D Intern</b></span><br>
     </figcaption>
 </figure>
 
@@ -20,7 +35,11 @@ May 2023 - Aug 2023
 
 [Keysight Labs](https://research.gatech.edu/ipat): Advanced Software Development Center, Atlanta, US
 
-- Worked on robustness and explainability of deep learning models. 
+- Enhanced the ML Testing toolbox by developing mutual information based feature visualizations and integrating
+SHAP for multi-class classification models
+- Evaluated the end-to-end development of machine learning models (CNN for 5G Beam Selection, Autoencoder
+Based Channel Estimator and Equalizer, Error Correction Transformers) using Keysight’s AI-testing pipeline
+- Contributed to the AI Testing White Papers on Supervised and Unsupervised learning models
 
 <hr style="border:1px solid gray">
 

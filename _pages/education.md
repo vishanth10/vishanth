@@ -23,6 +23,7 @@ Aug 2022 - May 2024 (Expected)
 **GPA:** 4.0/4.0
 
 **Courses:** 
+- Data Science for Social Networks, Deep Learning for Text Data
 - Machine Learning, Natural Language Processing, Web Search and Text Mining
 - Interactive Robot Learning, Algorithms, Knowledge Based AI
 
