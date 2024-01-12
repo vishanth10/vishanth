@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-09-12 07:59:00-0400
+date: 2019-09-12 07:59:00-0400
 inline: true
 ---
 
-Joined the [iTrust Lab](https://itrust.sutd.edu.sg/itrust-labs-home/) at the Singapore University of Technology and Research to pursue a Deep Learning Internship.  
+Joined the as Research Associate in National Center for Combustion Research and Development [NCCRD](https://nccrd.iitm.ac.in/) at the Indian Institute of Technology IIT Madras to pursue research on Gasoline Direct Engine - Single cylinder.  

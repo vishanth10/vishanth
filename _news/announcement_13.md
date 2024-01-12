@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-22 07:59:00-0400
+date: 2021-07-19 07:59:00-0400
 inline: true
 ---
 
-Joined [Keysight Labs](https://www.keysight.com/us/en/home.html): Advanced Software Development Center as a ML R&D Intern :tada:! 
+Joined [Citi](https://www.citi.com) : as Tech Analyst- Software Development (Production Management APAC-EMEA) :tada:! 

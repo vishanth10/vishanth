@@ -10,54 +10,50 @@ nav_order: 3
 <hr style="border:2px solid gray">
 
 <figure style="display: flex; align-items: center;">
-    <img src="../assets/img/gt.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+    <img src="../assets/img/ucla.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
     <figcaption>
-        <span style="font-size: 25px;"><b> MS in Computer Science (Machine Learning)</b></span><br>
-        <span style="font-size: 25px;"> Georgia Institute of Technology</span><br>
+        <span style="font-size: 25px;"><b> MS in Business Analytics (Data Science)</b></span><br>
+        <span style="font-size: 25px;"> University of California, Los Angeles </span><br>
     </figcaption>
 </figure>
-<!-- #### **MS in Computer Science (Machine Learning)**
-#### Georgia Institute of Technology -->
-Aug 2022 - May 2024 (Expected)
 
-**GPA:** 4.0/4.0
+Sep 2023 - Dec 2024 (Expected)
 
 **Courses:** 
-- Data Science for Social Networks, Deep Learning for Text Data
-- Machine Learning, Natural Language Processing, Web Search and Text Mining
-- Interactive Robot Learning, Algorithms, Knowledge Based AI
+- Data Management, SQL, Machine Learning, Statistics using R, Optimisation
+- Prescriptive Models and Data Analytics, Business Fundamentals, Market Analytics
+
 
 <hr style="border:1px solid gray">
 
 <figure style="display: flex; align-items: center;">
-    <img src="../assets/img/iitbbs.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+    <img src="../assets/img/NITT_logo.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
     <figcaption>
-        <span style="font-size: 25px;"><b>BS/MS in Computer Science and Engineering</b></span><br>
-        <span style="font-size: 25px;">Indian Institute of Technology (IIT) Bhubaneswar</span><br>
+        <span style="font-size: 25px;"><b>BS Industrial Engineering, Computer Science</b></span><br>
+        <span style="font-size: 25px;">National Institute of Technology, Tiruchirapalli (NIT-T)</span><br>
     </figcaption>
 </figure>
-<!-- #### **BS/MS in Computer Science and Engineering**
-#### Indian Institute of Technology (IIT) Bhubaneswar -->
+<!-- #### **BS NIT -->
 
 Jul 2017 - May 2022
 
-**GPA:** 9.79/10 (Graduated top of the class)
+**GPA:** 9.1/10 
 
 **Courses:**
-- **Core CS:** 
+- **Computer Science :** 
     - Operating Systems, Computer Network, Database Management Systems
-    - Data Structures, Advanced Algorithms
-    - Compiler Design, Computer Architecture, Formal Language and Automata Theory
+    - Data Structures & Algorithms, Computer Architecture
+    - Software Engineering
+- **Industrial Engineering :**
+    - Finite Element Analysis, Product Development Strategy, Quality Relaibility Engineering
+    - Thermodynamic, Kinematics and Dynamics of Machine, CAD/CAM, Lean Manufacturing, Mechanics of Solids and Fluids
+    - Operation Research, Supply Chain Management.
 - **Math:** 
-    - Linear Algebra, Advanced Calculus, Discrete Structures
-    - Combinatorics, Probability and Statistics, Mathematical Methods
+    - Linear Algebra, Vector Theory, Differential Calculas
+    - Probability and Statistics.
 - **Electives:** 
-    - Machine Learning and Data Analytics, Information Theory and Coding
-    - Networks and System Security, Applied Graph Theory, High Performance Computer Architecture
+    - Big Data Analytics, Project Management, System Simulation
     
-<!-- 
-**Publications:**
-- **S. Prasath**, K. Sethi, D. Mohanty, P. Bera and S. R. Samantaray, ["Analysis of Continual Learning Models for Intrusion Detection System,"](https://ieeexplore.ieee.org/document/9953983) in IEEE Access, vol. 10, pp. 121444-121464, 2022, doi: 10.1109/ACCESS.2022.3222715.
-- D. Mohanty, K. Sethi, **S. Prasath**, R. R. Rout and P. Bera, ["Intelligent Intrusion Detection System for Smart Grid Applications,"](https://ieeexplore.ieee.org/document/9478200) 2021 International Conference on Cyber Situational Awareness, Data Analytics and Assessment (CyberSA), Dublin, Ireland, 2021, pp. 1-8, doi: 10.1109/CyberSA52016.2021.9478200. -->
+
 
 <hr style="border:1px solid gray">

@@ -10,57 +10,61 @@ nav_order: 4
 <hr style="border:2px solid gray">
 
 <figure style="display: flex; align-items: center;">
-    <img src="../assets/img/claws.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+    <img src="../assets/img/ucla.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
     <figcaption>
-        <span style="font-size: 25px;"><b>Graduate Student Researcher</b></span><br>
+        <span style="font-size: 25px;"><b>Graduate Teaching Assistant - University of California Los Angeles, US</b></span><br>
     </figcaption>
 </figure>
 
-Aug 2023 - Present
+Jan 2024 - Present
 
-[Computational Data Science Lab for the Web and Social Media](https://faculty.cc.gatech.edu/~srijan/), GeorgiaTech, Atlanta, US
 
-- Studying the behaviour of LLMs and their applications in countering mis-information
+
+- Developing software/Libraries for conducting hypothesis testing using statstics sampling and boostrapping techniques
 
 <hr style="border:1px solid gray">
 
 <figure style="display: flex; align-items: center;">
-    <img src="../assets/img/keysight.png"  alt="Sample Image" style="width:80px; margin-right: 10px;"/>
+    <img src="../assets/img/citi.png"  alt="Sample Image" style="width:80px; margin-right: 10px;"/>
     <figcaption>
-        <span style="font-size: 25px;"><b>Machine Learning R&D Intern</b></span><br>
+        <span style="font-size: 25px;"><b>SDE 2 at Citi - Artificial Intelligence & Operations (Innovation Lab) </b></span><br>
     </figcaption>
 </figure>
 
-May 2023 - Aug 2023
+July 2021 - Sept 2023
 
-[Keysight Labs](https://research.gatech.edu/ipat): Advanced Software Development Center, Atlanta, US
-
-- Enhanced the ML Testing toolbox by developing mutual information based feature visualizations and integrating
-SHAP for multi-class classification models
-- Evaluated the end-to-end development of machine learning models (CNN for 5G Beam Selection, Autoencoder
-Based Channel Estimator and Equalizer, Error Correction Transformers) using Keysight’s AI-testing pipeline
-- Contributed to the AI Testing White Papers on Supervised and Unsupervised learning models
+- Managed AIOPS team of 4 software developers & a product manager; Led internal Innovation project on development of LLM, NLP & forecasting Machine Learning models & BOTs which saved +$250K per year in Production Support Activities.
+- Project Lead in establishing command center in Chennai & Lead Data Scientist on developing dashboards which pro-actively avoided more 50+ major incidents, reduced downtime by 10%, saved ~ $1M across CGW application all overall the world.
+- Innovation Manager in HNI / UHNI (High Net-worth Individuals) Division on enhancing the business model, technology innovation & strategy to offer better client services and experience in Citi wealth management application.
+- Awarded Citi – Gratitude Golden Award, Citi – Copper Award, Bronze Award, Bravo Award and Citi-Client Obsession Award, and 10+ Applause award for best automation, Innovation works across CGW, Finalists in Citi – Hackathon 2022
+- Designed new tech stack in innovation lab- Angular, Node.js, python, AI & ML algorithms to enhance automation app.
+- Streamlined & Implemented new SDLC process (Agile) for internal Citibank applications, saved around 100+ person-hours.
+- Integrated various monitoring tools (Splunk, Evolven, ServiceNow) through APIs to create a data lake for forecasting and
+analytics, which saved $100K in monitoring and saved 300+ man-hours in monitoring and reporting.
+- Developed full stack automation model using Machine Learning for proactive monitoring, incident forecasting, SRE & SLA,
+and impact analysis dashboards; were reduced incidents by 13% through this application compared to last year.
 
 <hr style="border:1px solid gray">
+
 
 <figure style="display: flex; align-items: center;">
     <img src="../assets/img/ipat.jpeg"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
     <figcaption>
-        <span style="font-size: 25px;"><b>Graduate Research Assistant</b></span><br>
+        <span style="font-size: 25px;"><b>MITACS Globalink Research Intern’20 (Software Development)</b></span><br>
     </figcaption>
 </figure>
 
-Jan 2023 - May 2023
+April 2020 - July 2020
 
-[Institute for People and Technology (IPaT)](https://research.gatech.edu/ipat), GeorgiaTech, Atlanta, US
+JOHN MOLSON SCHOOL OF BUSINESS, Concordia University, Canada
 
-- Developing an Emergency Management Portal using Flask and REACT for real-time tracking and monitoring of flooding in Georgia coastal counties. 
-- Designing pipelines for processing and storing data in GCP collected from sensors across the Georgia coast. 
+- Developed a non-linear programming supply chain assortment model using various heuristics and greedy algorithms in C++ to predict market demand which can maximize profit by 6% using the model, for Walmart Canada.
+
 
 <hr style="border:1px solid gray">
 
 <figure style="display: flex; align-items: center;">
-    <img src="../assets/img/itrust.png"  alt="Sample Image" style="width:70px; margin-right: 10px;"/>
+    <img src="../assets/img/.png"  alt="Sample Image" style="width:70px; margin-right: 10px;"/>
     <figcaption>
         <span style="font-size: 25px;"><b>Deep Learning Intern</b></span><br>
     </figcaption>
@@ -68,53 +72,18 @@ Jan 2023 - May 2023
 
 Sep 2021 - Apr 2022
 
-[iTrust Labs](https://itrust.sutd.edu.sg/itrust-labs-home/), Singapore University of Technology and Design, Singapore
-
-##### **Anomaly Detection in Multi Variate Time Series**
-- Developed a dual attention (spatial and temporal) based LSTM/GRU model to pre-emptively detect anomalies in a power plant. 
-- Minimized costs by reducing the false alarm rate to 0.21% with a high detection accuracy of 97.8%.    
-
-##### **Semi-Supervised GAN based Trojan Detection**   
-- Researched and implemented a novel semi-supervised GAN for detecting trojaned DNNs. 
-- Enhanced detection capabilities by integrating a Denoising Autoencoder for attack agnostic one-class training. 
-- Achieved state-of-the-art performance +3% AUC on computer vision tasks while reducing run-time by 15%.
-
-<hr style="border:1px solid gray">
-
-<figure style="display: flex; align-items: center;">
-    <img src="../assets/img/fraunhofer.png"  alt="Sample Image" style="width:80px; margin-right: 10px;"/>
-    <figcaption>
-        <span style="font-size: 25px;"><b>Machine Learning Intern</b></span><br>
-    </figcaption>
-</figure>
-
-Sep 2021 - Apr 2022
-
-[Fraunhofer IOSB and Karlsruhe Institute of Technology](https://www.iosb.fraunhofer.de/en.html), Germany
-
-- Implemented black-box ZOO and FGSM attacks on DL based Intrusion Detection System. Handled system specific constraints: binary features, one-hot encoded variables, preserving attack capabilities. 
-- Studied various defense mechanisms including adversarial training, defensive distillation, and denoising
-autoencoder. 
-- Integrated Explainable AI tools such as PDP Plots and SHAP to perform understandable and trustworthy decision making. 
-
+<!--
 <hr style="border:1px solid gray">
 
 <figure style="display: flex; align-items: center;">
     <img src="../assets/img/uoa.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
     <figcaption>
-        <span style="font-size: 25px;"><b>Covid-19 Modeling Intern</b></span><br>
+        <span style="font-size: 25px;"><b>Machine Learning Intern - Vevolve</b></span><br>
     </figcaption>
 </figure>
 
 <!-- #### **Covid-19 Modeling Intern**  -->
+-->
 
-Jul 2020 - Sep 2020
-
-[PRETzel Group](https://pretzel.ece.auckland.ac.nz/#!home), University of Auckland, New Zealand
-
-- Implemented agent(Stochastic Te Punaha Matatini) and differential equation(Modified SEIR, CovidSim 2.0) based
-covid-19 models using hybrid automata using composition modelling. 
-- Performed multi-model simulations with different plants and controllers to find the optimal control strategy.
-- Analysed the trade off between the economic impact and the health impact by generating a pareto front using ϵ constraint method and particle swarm optimization.
 
 <hr style="border:1px solid gray">

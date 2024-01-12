@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-01-08 07:59:00-0400
+date: 2024-01-01 07:59:00-0400
 inline: true
 ---
 
-Started working as a Software Developer (Graduate Research Assistant) at the [Institute for People and Technology](https://research.gatech.edu/ipat). 
+Started working as a TA (Teaching Assistant) - Software Developer for LS 40 Statistics in Biosciences at the [Life Science at UCLA](https://www.lscore.ucla.edu/). 

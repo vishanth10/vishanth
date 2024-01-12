@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSCS at Georgia Tech
+subtitle: MS BA at UCLA (University of California, Los Angeles) Anderson School of Management
 
 profile:
   align: left
   image: my_pic.jpg
   image_circular: true # crops the image to make it circular
   address: #>
-    # <p>Atlanta, Georgia, US</p>
+    # <p>Los Angeles, CA, US</p>
     # <p> <br> </p>
     # <p> <br> </p>
 
@@ -18,14 +18,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm Sai Prasath Suresh, a second year MS student at [GeorgiaTech](https://www.gatech.edu/) majoring in Computer Science with a specialization in Machine Learning. Previously I graduated from the [Indian Institute of Technology(IIT) Bhubaneswar](https://www.iitbbs.ac.in/) with a BS/MS degree in Computer Science and Engineering. 
+Hi Guys ! I'm Vishanth Hari Raj, currently MS student at University of California,Los Angeles [UCLA](https://www.ucla.edu/) majoring in Business Analytics with a focus on Data Science. Previously I work as Software Developer -2 at Citigoups [Citi](http://www.citi.com) - PSM (Artificial Intelligence & Operation Division) and later on to Command Center/ (HNI/UHNI) Team. I graduated from the National Institute of Technology Tiruchirapalli [(NIT-T)](https://www.nitt.edu/) with a BS degree major in Industrial Engineering and minor in Computer Science Engineering . 
 
-My primary interest lies in researching and developing machine learning and deep learning methodologies for solving real-world problems. Currently, I am intrigued by the convergence of **language, graphs, and reinforcement learning** with a particular focus on exploring the impact of the recent proliferation of generative AI technologies such as ChatGPT on our lives.**
+My primary interest lies in leveraging technolgy for solving real-world problems and add value to society. Currently, I am more interested on **Generative AI and Machine learning** field and disruption it creates in human society.**
  
-Previously, I've had the opportunity to work on various domains in machine learning including NLP, RL, Continual Learning and Adversarial ML. Through multiple internships and projects, I've developed a deep understanding of various AI/ML concepts and tools.
+Proficient in Python, TensorFlow, C/C++, and a spectrum of leading-edge tools, my commitment revolves around pioneering innovative solutions in data science and machine learning. I am enthusiastic about contributing my multifaceted expertise to further advancements in these dynamic fields, shaping the future of technology through data-driven innovation.
 
  <!-- worked across various domains in Machine Learning including Natural Language Processing, Reinforement Learning, Continual Learning, and Adversarial ML. Through multiple internships and projects, I've developed a deep understanding of various AI/ML concepts and tools.  -->
 
-**I'm actively looking for fulltime opportunities in ML/AI (applied science roles) starting May 2024**.  
+**I'm actively looking for summer 2024 opportunities and fulltime opportunities in Data Science ML/AI starting December 2024**.  
 
-**Credit: ChatGPT
+Excited to connect with you guys.
+
