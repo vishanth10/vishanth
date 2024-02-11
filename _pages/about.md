@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi Guys ! I'm Vishanth Hari Raj, currently MS student at University of California,Los Angeles [UCLA](https://www.ucla.edu/) majoring in Business Analytics with a focus on Data Science. Previously I work as Software Developer -2 at Citigoups [Citi](http://www.citi.com) - PSM (Artificial Intelligence & Operation Division) and later on to Command Center/ (HNI/UHNI) Team. I graduated from the National Institute of Technology Tiruchirapalli [(NIT-T)](https://www.nitt.edu/) with a BS degree major in Industrial Engineering and minor in Computer Science Engineering . 
+Hi Guys ! I'm Vishanth Hari Raj, currently MS student at *University of California,Los Angeles* [UCLA](https://www.ucla.edu/) majoring in Business Analytics with a focus on Data Science. Previously I work as Software Developer -2 at Citigoups [Citi](http://www.citi.com) - PSM (Artificial Intelligence & Operation Division) and later on to Command Center/ (HNI/UHNI) Team. I graduated from the *National Institute of Technology Tiruchirapalli* [(NIT-T)](https://www.nitt.edu/) with a BS degree major in Industrial Engineering and minor in Computer Science Engineering . 
 
 My primary interest lies in leveraging technolgy for solving real-world problems and add value to society. Currently, I am more interested on **Generative AI and Machine learning** field and disruption it creates in human society.**
  
@@ -26,7 +26,7 @@ Proficient in Python, TensorFlow, C/C++, and a spectrum of leading-edge tools, m
 
  <!-- worked across various domains in Machine Learning including Natural Language Processing, Reinforement Learning, Continual Learning, and Adversarial ML. Through multiple internships and projects, I've developed a deep understanding of various AI/ML concepts and tools.  -->
 
-**I'm actively looking for summer 2024 opportunities and fulltime opportunities in Data Science ML/AI starting December 2024**.  
+***I'm actively looking for summer 2024 opportunities and fulltime opportunities in Data Science & ML/AI starting from December 2024***.  
 
-Excited to connect with you guys.
+Love to connect with you guys ❤️😊.
 

@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Conference Publications and Thesis Reports
 years: [2022, 2021]
-nav: true
+nav: false
 nav_order: 6
 ---
 <!-- _pages/publications.md -->

@@ -20,8 +20,15 @@ nav_order: 3
 Sep 2023 - Dec 2024 (Expected)
 
 **Courses:** 
-- Data Management, SQL, Machine Learning, Statistics using R, Optimisation
-- Prescriptive Models and Data Analytics, Business Fundamentals, Market Analytics
+- **Computer Science :** 
+    - SQL, Data Management
+- **Statistics**
+    - Statistics, Probablity
+- **Machine Learning**
+    - Machine Learning, Advance Machine Learning, Optimisation
+- **Analytics**
+    - Prescriptive Models and Data Analytics, Business Fundamentals, Market Analytics, A/B Testing, Finance
+    - Business, Economics, Finance.
 
 
 <hr style="border:1px solid gray">
