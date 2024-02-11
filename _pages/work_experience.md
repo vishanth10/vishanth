@@ -56,7 +56,7 @@ and impact analysis dashboards; were reduced incidents by 13% through this appli
 
 
 <figure style="display: flex; align-items: center;">
-    <img src="../assets/img/ipat.jpeg"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+<!--     <img src="../assets/img/ipat.jpeg"  alt="Sample Image" style="width:50px; margin-right: 10px;"/> -->
     <figcaption>
         <span style="font-size: 25px;"><b>MITACS Globalink Research Intern’20 (Software Development)</b></span><br>
     </figcaption>
@@ -84,7 +84,7 @@ JOHN MOLSON SCHOOL OF BUSINESS, Concordia University, Canada
 <hr style="border:1px solid gray">
 
 <figure style="display: flex; align-items: center;">
-    <img src="../assets/img/uoa.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
+<!--     <img src="../assets/img/uoa.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/> -->
     <figcaption>
         <span style="font-size: 25px;"><b>Machine Learning Intern - Vevolve</b></span><br>
     </figcaption>
