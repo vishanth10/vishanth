@@ -5,5 +5,5 @@ description: Image recognition-based Deep learning model for automated defect de
 img: assets/img/aml.png
 redirect: https://drive.google.com/file/d/10rMigiXUdqqRzCQygNzRj-Fk0WTF6Sa2/view
 importance: 3
-category: Final Year Thesis
+category: Thesis
 ---
