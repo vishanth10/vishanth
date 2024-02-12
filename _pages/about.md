@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi Guys ! I'm Vishanth Hari Raj, currently MS student at *University of California,Los Angeles* [UCLA](https://www.ucla.edu/) majoring in Business Analytics with a focus on Data Science. Previously I work as Software Developer -2 at Citigoups [Citi](http://www.citi.com) - PSM (Artificial Intelligence & Operation Division) and later on to Command Center/ (HNI/UHNI) Team. I graduated from the *National Institute of Technology Tiruchirapalli* [(NIT-T)](https://www.nitt.edu/) with a BS degree major in Industrial Engineering and minor in Computer Science Engineering . 
+Hi Guys ! I'm Vishanth Hari Raj, currently MS student at *University of California,Los Angeles* [UCLA](https://www.ucla.edu/) majoring in Business Analytics with a focus on Data Science. Previously I worked as Software Developer -2 at Citigoups [Citi](http://www.citi.com) - PSM (Artificial Intelligence & Operation Division) and later on to Command Center/ (HNI/UHNI) Team over 2+ years. I graduated from the *National Institute of Technology Tiruchirapalli* [(NIT-T)](https://www.nitt.edu/) with a BS degree major in Industrial Engineering and minor in Computer Science Engineering . 
 
 My primary interest lies in leveraging technolgy for solving real-world problems and add value to society. Currently, I am more interested on **Generative AI and Machine learning** field and disruption it creates in human society.**
  
