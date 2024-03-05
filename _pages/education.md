@@ -7,6 +7,63 @@ nav: true
 nav_order: 3
 ---
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Education</title>
+<style>
+    .content {
+        display: none;
+        margin-top: 10px;
+    }
+
+    .toggle-button {
+        cursor: pointer;
+        color: blue;
+        margin-bottom: 5px;
+    }
+</style>
+</head>
+<body>
+
+<div>
+    <div class="toggle-button" onclick="toggleContent('ucla')">MS in Business Analytics (Data Science) - UCLA</div>
+    <div id="ucla" class="content">
+        <p><strong>University of California, Los Angeles</strong></p>
+        <p>Sep 2023 - Dec 2024 (Expected)</p>
+        <p><strong>Courses:</strong> Computer Science, Statistics, Machine Learning, Analytics</p>
+    </div>
+</div>
+
+<div>
+    <div class="toggle-button" onclick="toggleContent('nitt')">BS Industrial Engineering, Computer Science - NIT-T</div>
+    <div id="nitt" class="content">
+        <p><strong>National Institute of Technology, Tiruchirapalli (NIT-T)</strong></p>
+        <p>Jul 2017 - May 2022</p>
+        <p><strong>GPA:</strong> 9.1/10</p>
+        <p><strong>Courses:</strong> Computer Science, Industrial Engineering, Math, Electives</p>
+    </div>
+</div>
+
+<script>
+function toggleContent(id) {
+    var content = document.getElementById(id);
+    if (content.style.display === "none") {
+        content.style.display = "block";
+    } else {
+        content.style.display = "none";
+    }
+}
+</script>
+
+</body>
+</html>
+
+
+<!--
 <hr style="border:2px solid gray">
 
 <figure style="display: flex; align-items: center;">
@@ -40,7 +97,7 @@ Sep 2023 - Dec 2024 (Expected)
         <span style="font-size: 25px;">National Institute of Technology, Tiruchirapalli (NIT-T)</span><br>
     </figcaption>
 </figure>
-<!-- #### **BS NIT -->
+<!-- #### **BS NIT 
 
 Jul 2017 - May 2022
 
@@ -60,7 +117,10 @@ Jul 2017 - May 2022
     - Probability and Statistics.
 - **Electives:** 
     - Big Data Analytics, Project Management, System Simulation
-    
+
 
 
 <hr style="border:1px solid gray">
+>>
+
+--!>
