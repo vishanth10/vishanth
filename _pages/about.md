@@ -7,7 +7,7 @@ subtitle: MS BA at UCLA (University of California, Los Angeles) Anderson School 
 profile:
   align: left
   image: my_pic1.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: #>
     # <p>Los Angeles, CA, US</p>
     # <p> <br> </p>
