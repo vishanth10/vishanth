@@ -5,7 +5,7 @@ permalink: /projects/
 description: Collection of course, internships and thesis projects. 
 nav: true
 nav_order: 5
-display_categories: [Latest, Thesis, Course Projects, Internships]
+display_categories: [Latest, Thesis, Course Project, Internships]
 horizontal: false
 ---
 
