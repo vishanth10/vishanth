@@ -33,9 +33,9 @@ As I navigate through my MS at UCLA, my goal is to harness data science and mach
 
 Let's connect and explore how we can drive technological advancements together!
 
-[LinkedIn](#) | [GitHub](#) | [Twitter](#)
-
 *Here's to creating a future driven by data and innovation.* 🌐❤️
+
+
  <!-- Hi Guys ! I'm Vishanth Hari Raj, currently MS student at *University of California,Los Angeles* [UCLA](https://www.ucla.edu/) majoring in Business Analytics with a focus on Data Science. 
 
 Previously I worked as Software Developer -2 at Citigoups [Citi](http://www.citi.com) - PSM (Artificial Intelligence & Operation Division) and later on to Command Center/ (HNI/UHNI) Team over 2+ years. I graduated from the *National Institute of Technology Tiruchirapalli* [(NIT-T)](https://www.nitt.edu/) with a BS degree major in Industrial Engineering and minor in Computer Science Engineering . 
