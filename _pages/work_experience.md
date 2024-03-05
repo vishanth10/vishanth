@@ -7,42 +7,57 @@ nav: true
 nav_order: 4
 ---
 
+<hr style="border:2px solid gray">
 
-<img src="../assets/img/ucla.png" alt="UCLA" width="100"/>  
-### Graduate Teaching / Research Assistant - University of California, Los Angeles, US
+<figure style="display: flex; align-items: center;">
+    <img src="../assets/img/ucla.png" alt="UCLA" style="width:50px; margin-right: 10px;"/>
+    <figcaption>
+        <b>Graduate Teaching / Research Assistant</b> - UCLA<br>
+        Jan 2024 - Present
+        <ul>
+            <li>Developing software and libraries for hypothesis testing using statistical sampling and bootstrapping techniques. <a href="https://pypi.org/project/statistics-library/" target="_blank">Learn more</a>.</li>
+        </ul>
+    </figcaption>
+</figure>
 
-*Jan 2024 - Present*  
-Developing software/libraries for hypothesis testing using statistical sampling and bootstrapping techniques. [Learn more](https://pypi.org/project/statistics-library/).
+<hr style="border:1px solid gray">
 
----
+<figure style="display: flex; align-items: center;">
+    <img src="../assets/img/citi.png" alt="Citi" style="width:80px; margin-right: 10px;"/>
+    <figcaption>
+        <b>SDE 2 at Citi</b> - AI & Operations (Innovation Lab)<br>
+        July 2021 - Sept 2023
+        <ul>
+            <li>Led AIOPS team, focusing on operational efficiency and innovation.</li>
+            <li>Spearheaded command center project, significantly reducing downtime and saving costs.</li>
+            <li>Improved client services in HNI/UHNI division through technology innovation.</li>
+            <li>Introduced new tech stacks and streamlined Agile processes.</li>
+            <li>Developed an ML-based automation model for proactive monitoring. <a href="https://drive.google.com/file/d/1vz_iv6zuMCkshuL85D0IB-uaBy-M19_y/view?usp=sharing" target="_blank">Awards and Achievements</a>.</li>
+        </ul>
+    </figcaption>
+</figure>
 
-<img src="../assets/img/citi.png" alt="Citi" width="100"/>  
-### SDE 2 at Citi - Artificial Intelligence & Operations (Innovation Lab)
+<hr style="border:1px solid gray">
 
-*July 2021 - Sept 2023*  
-- Led an AIOPS team, driving innovations in LLM, NLP, and forecasting ML models, saving >$250K annually.
-- Initiated the command center in Chennai, averting 50+ major incidents, saving ~$1M globally.
-- As Innovation Manager in HNI/UHNI division, enhanced business model and client services in wealth management.
-- Revamped tech stack and streamlined Agile processes, saving 100+ hours.
-- Developed a full-stack ML automation model, reducing incidents by 13%.
+<figure style="display: flex; align-items: center;">
+    <figcaption>
+        <b>MITACS Globalink Research Intern</b> - Concordia University<br>
+        April 2020 - July 2020
+        <ul>
+            <li>Developed a supply chain optimization model for Walmart Canada, increasing profitability by 6% through advanced algorithms.</li>
+        </ul>
+    </figcaption>
+</figure>
 
-**[Awards and Achievements at Citi](https://drive.google.com/file/d/1vz_iv6zuMCkshuL85D0IB-uaBy-M19_y/view?usp=sharing)**
-- Gold Award
-- Bronze Award
-- Copper Award
-- 10+ Apprectiation Award
-- Client Obessision Award/ Bravo Award
+<hr style="border:1px solid gray">
 
----
+<figure style="display: flex; align-items: center;">
+    <figcaption>
+        <b>Machine Learning Intern</b> - Vevolve
+        <ul>
+            <li>Collaborated on cybersecurity ML models, identifying vulnerabilities and contributing to significant revenue share.</li>
+        </ul>
+    </figcaption>
+</figure>
 
-<img src="../assets/img/concord.png" alt="Citi" width="100"/> 
-### MITACS Globalink Research Intern - Concordia University, Canada
-
-*April 2020 - July 2020*  
-Developed a supply chain model for Walmart Canada, boosting profits by 6%. This model used heuristics and greedy algorithms in C++ to optimize assortment planning.
-
----
-
-### Machine Learning Intern - Vevolve
-*May 2020 - September 2020*
-Participated in an R&D project, creating ML models for cybersecurity, enhancing the security posture of PHP applications and generating a $30K revenue share.
+<hr style="border:1px solid gray">
