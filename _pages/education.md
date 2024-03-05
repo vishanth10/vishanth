@@ -8,119 +8,46 @@ nav_order: 3
 ---
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Education</title>
-<style>
-    .content {
-        display: none;
-        margin-top: 10px;
-    }
-
-    .toggle-button {
-        cursor: pointer;
-        color: blue;
-        margin-bottom: 5px;
-    }
-</style>
-</head>
-<body>
-
-<div>
-    <div class="toggle-button" onclick="toggleContent('ucla')">MS in Business Analytics (Data Science) - UCLA</div>
-    <div id="ucla" class="content">
-        <p><strong>University of California, Los Angeles</strong></p>
-        <p>Sep 2023 - Dec 2024 (Expected)</p>
-        <p><strong>Courses:</strong> Computer Science, Statistics, Machine Learning, Analytics</p>
-    </div>
+<div style="margin-bottom: 2em;">
+    <h2 style="margin-bottom: 0.5em;">Education</h2>
 </div>
 
-<div>
-    <div class="toggle-button" onclick="toggleContent('nitt')">BS Industrial Engineering, Computer Science - NIT-T</div>
-    <div id="nitt" class="content">
-        <p><strong>National Institute of Technology, Tiruchirapalli (NIT-T)</strong></p>
-        <p>Jul 2017 - May 2022</p>
-        <p><strong>GPA:</strong> 9.1/10</p>
-        <p><strong>Courses:</strong> Computer Science, Industrial Engineering, Math, Electives</p>
+<div style="border-bottom: 2px solid gray; padding-bottom: 1em; margin-bottom: 2em;">
+    <div style="display: flex; align-items: center; margin-bottom: 1em;">
+        <img src="../assets/img/ucla.png" alt="UCLA Logo" style="width: 60px; margin-right: 20px; border-radius: 50%;">
+        <div>
+            <h3 style="margin: 0; font-size: 1.5em;"><b>MS in Business Analytics (Data Science)</b></h3>
+            <p style="margin: 0; font-size: 1.2em;">University of California, Los Angeles</p>
+            <span style="font-size: 1.1em;">Sep 2023 - Dec 2024 (Expected)</span>
+        </div>
     </div>
+
+    <strong>Courses:</strong>
+    <ul>
+        <li><b>Computer Science:</b> SQL, Data Management</li>
+        <li><b>Statistics:</b> Statistics, Probability</li>
+        <li><b>Machine Learning:</b> ML, Advanced ML, Optimization</li>
+        <li><b>Analytics:</b> Prescriptive Models and Data Analytics, Business Fundamentals, Market Analytics, A/B Testing, Finance, Economics</li>
+    </ul>
 </div>
 
-<script>
-function toggleContent(id) {
-    var content = document.getElementById(id);
-    if (content.style.display === "none") {
-        content.style.display = "block";
-    } else {
-        content.style.display = "none";
-    }
-}
-</script>
+<div style="border-bottom: 1px solid gray; padding-bottom: 1em;">
+    <div style="display: flex; align-items: center; margin-bottom: 1em;">
+        <img src="../assets/img/NITT_logo.png" alt="NIT-T Logo" style="width: 60px; margin-right: 20px; border-radius: 50%;">
+        <div>
+            <h3 style="margin: 0; font-size: 1.5em;"><b>BS Industrial Engineering, Computer Science</b></h3>
+            <p style="margin: 0; font-size: 1.2em;">National Institute of Technology, Tiruchirapalli (NIT-T)</p>
+            <span style="font-size: 1.1em;">Jul 2017 - May 2022</span>
+        </div>
+    </div>
 
-</body>
-</html>
-
-
-<!--
-<hr style="border:2px solid gray">
-
-<figure style="display: flex; align-items: center;">
-    <img src="../assets/img/ucla.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
-    <figcaption>
-        <span style="font-size: 25px;"><b> MS in Business Analytics (Data Science)</b></span><br>
-        <span style="font-size: 25px;"> University of California, Los Angeles </span><br>
-    </figcaption>
-</figure>
-
-Sep 2023 - Dec 2024 (Expected)
-
-**Courses:** 
-- **Computer Science :** 
-    - SQL, Data Management
-- **Statistics**
-    - Statistics, Probablity
-- **Machine Learning**
-    - Machine Learning, Advance Machine Learning, Optimisation
-- **Analytics**
-    - Prescriptive Models and Data Analytics, Business Fundamentals, Market Analytics, A/B Testing, Finance
-    - Business, Economics, Finance.
-
-
-<hr style="border:1px solid gray">
-
-<figure style="display: flex; align-items: center;">
-    <img src="../assets/img/NITT_logo.png"  alt="Sample Image" style="width:50px; margin-right: 10px;"/>
-    <figcaption>
-        <span style="font-size: 25px;"><b>BS Industrial Engineering, Computer Science</b></span><br>
-        <span style="font-size: 25px;">National Institute of Technology, Tiruchirapalli (NIT-T)</span><br>
-    </figcaption>
-</figure>
-<!-- #### **BS NIT 
-
-Jul 2017 - May 2022
-
-**GPA:** 9.1/10 
-
-**Courses:**
-- **Computer Science :** 
-    - Operating Systems, Computer Network, Database Management Systems
-    - Data Structures & Algorithms, Computer Architecture
-    - Software Engineering
-- **Industrial Engineering :**
-    - Finite Element Analysis, Product Development Strategy, Quality Relaibility Engineering
-    - Thermodynamic, Kinematics and Dynamics of Machine, CAD/CAM, Lean Manufacturing, Mechanics of Solids and Fluids
-    - Operation Research, Supply Chain Management.
-- **Math:** 
-    - Linear Algebra, Vector Theory, Differential Calculas
-    - Probability and Statistics.
-- **Electives:** 
-    - Big Data Analytics, Project Management, System Simulation
-
-
-
-<hr style="border:1px solid gray">
->>
-
---!>
+    <span><b>GPA:</b> 9.1/10</span>
+    <br>
+    <strong>Courses:</strong>
+    <ul>
+        <li><b>Computer Science:</b> Operating Systems, Computer Network, Database Management Systems, Data Structures & Algorithms, Computer Architecture, Software Engineering</li>
+        <li><b>Industrial Engineering:</b> Finite Element Analysis, Product Development Strategy, Quality Reliability Engineering, Thermodynamics, Kinematics and Dynamics of Machine, CAD/CAM, Lean Manufacturing, Mechanics of Solids and Fluids, Operation Research, Supply Chain Management</li>
+        <li><b>Math:</b> Linear Algebra, Vector Theory, Differential Calculus, Probability and Statistics</li>
+        <li><b>Electives:</b> Big Data Analytics, Project Management, System Simulation</li>
+    </ul>
+</div>
