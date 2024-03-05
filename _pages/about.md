@@ -35,18 +35,7 @@ Let's connect and explore how we can drive technological advancements together!
 
 *Here's to creating a future driven by data and innovation.* 🌐❤️
 
+***I'm actively looking for summer 2024 opportunities and fulltime opportunities in Data Science & ML/AI starting from December 2024***.
 
- <!-- Hi Guys ! I'm Vishanth Hari Raj, currently MS student at *University of California,Los Angeles* [UCLA](https://www.ucla.edu/) majoring in Business Analytics with a focus on Data Science. 
-
-Previously I worked as Software Developer -2 at Citigoups [Citi](http://www.citi.com) - PSM (Artificial Intelligence & Operation Division) and later on to Command Center/ (HNI/UHNI) Team over 2+ years. I graduated from the *National Institute of Technology Tiruchirapalli* [(NIT-T)](https://www.nitt.edu/) with a BS degree major in Industrial Engineering and minor in Computer Science Engineering . 
-
-My primary interest lies in leveraging technolgy for solving real-world problems and add value to society. Currently, I am more interested on **Generative AI and Machine learning** field and disruption it creates in human society.**
  
-Proficient in Python, TensorFlow, C/C++, and a spectrum of leading-edge tools, my commitment revolves around pioneering innovative solutions in data science and machine learning. I am enthusiastic about contributing my multifaceted expertise to further advancements in these dynamic fields, shaping the future of technology through data-driven innovation.
-
-worked across various domains in Machine Learning including Natural Language Processing, Reinforement Learning, Continual Learning, and Adversarial ML. Through multiple internships and projects, I've developed a deep understanding of various AI/ML concepts and tools.  
-
-***I'm actively looking for summer 2024 opportunities and fulltime opportunities in Data Science & ML/AI starting from December 2024***.  
-
-Love to connect with you guys ❤️😊.-->
 
