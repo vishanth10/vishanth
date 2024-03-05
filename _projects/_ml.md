@@ -5,5 +5,5 @@ description: A set of ML Projects/ Deep Learning solving the set of Open source 
 img: 
 redirect: https://github.com/vishanth10/MLProjects
 importance: 2
-category: Course Projects
+category: Course Project
 ---
