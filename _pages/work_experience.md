@@ -43,7 +43,7 @@ nav_order: 4
 <hr style="border:1px solid gray">
 
 <figure style="display: flex; align-items: center;">
-     <img src="../assets/img/concord.jpeg" alt="Concord Logo" style="width:80px; margin-right: 10px;"/>
+     <img src="../assets/img/concord.jpeg" alt="Concord Logo" style="width:60px; margin-right: 8px;"/>
     <figcaption>
         <b>MITACS Globalink Research Intern - Concordia University</b><br>
         April 2020 - July 2020
