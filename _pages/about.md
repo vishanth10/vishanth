@@ -34,7 +34,6 @@ Let's connect and explore how we can drive technological advancements together!
 
 *Here's to creating a future driven by data and innovation.* 🌐❤️
 
-***I'm actively looking for summer 2024 opportunities and fulltime opportunities in Data Science & ML/AI starting from December 2024***.
 
  
 
