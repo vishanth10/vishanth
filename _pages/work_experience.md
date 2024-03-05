@@ -15,7 +15,7 @@ nav_order: 4
     }
 
     .experience-figure img {
-        width: 50px; /* Adjust image size as needed */
+        width: 30px; /* Adjust image size as needed */
         margin-right: 10px;
     }
 
