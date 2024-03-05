@@ -8,15 +8,15 @@ nav_order: 4
 ---
 
 
-### Graduate Teaching / Research Assistant - University of California, Los Angeles, US
-<img src="../assets/img/ucla.png" alt="UCLA" width="100"/>  
+<img src="../assets/img/ucla.png" alt="UCLA" width="100"/>  ### Graduate Teaching / Research Assistant - University of California, Los Angeles, US
+
 *Jan 2024 - Present*  
 Developing software/libraries for hypothesis testing using statistical sampling and bootstrapping techniques. [Learn more](https://pypi.org/project/statistics-library/).
 
 ---
 
-### SDE 2 at Citi - Artificial Intelligence & Operations (Innovation Lab)
-<img src="../assets/img/citi.png" alt="Citi" width="100"/>  
+<img src="../assets/img/citi.png" alt="Citi" width="100"/>  ### SDE 2 at Citi - Artificial Intelligence & Operations (Innovation Lab)
+
 *July 2021 - Sept 2023*  
 - Led an AIOPS team, driving innovations in LLM, NLP, and forecasting ML models, saving >$250K annually.
 - Initiated the command center in Chennai, averting 50+ major incidents, saving ~$1M globally.
@@ -33,8 +33,8 @@ Developing software/libraries for hypothesis testing using statistical sampling 
 
 ---
 
-### MITACS Globalink Research Intern - Concordia University, Canada
-<img src="../assets/img/concord.png" alt="Citi" width="100"/>  
+<img src="../assets/img/concord.png" alt="Citi" width="100"/>  ### MITACS Globalink Research Intern - Concordia University, Canada
+
 *April 2020 - July 2020*  
 Developed a supply chain model for Walmart Canada, boosting profits by 6%. This model used heuristics and greedy algorithms in C++ to optimize assortment planning.
 
