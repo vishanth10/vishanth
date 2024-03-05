@@ -27,6 +27,8 @@ I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), spec
 
 My expertise lies in **Generative AI and Machine Learning**, fields that are reshaping our world. With proficiency in Python, TensorFlow, and C/C++, I'm dedicated to solving complex problems and making a societal impact through technology.
 
+
+
 ### My Mission 🌟
 
 As I navigate through my MS at UCLA, my goal is to harness data science and machine learning for innovative solutions. **I'm open to summer 2024 internships and full-time roles starting December 2024** in Data Science and ML/AI domains.
