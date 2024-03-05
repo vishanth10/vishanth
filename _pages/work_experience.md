@@ -36,6 +36,9 @@ nav_order: 4
 - Developed ML automation model, reducing incidents by 13%.
 
 **Achievements:** [Citi Awards and Recognitions](https://drive.google.com/file/d/1vz_iv6zuMCkshuL85D0IB-uaBy-M19_y/view?usp=sharing)
+- Gold Gratitude Award
+- Bronze, Copper Gratitude Award
+- Client Obessision Award, Bravo Award
 
 <hr style="border:1px solid gray">
 
