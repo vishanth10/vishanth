@@ -8,10 +8,6 @@ nav_order: 3
 ---
 
 
-<div style="margin-bottom: 2em;">
-    <h2 style="margin-bottom: 0.5em;">Education</h2>
-</div>
-
 <div style="border-bottom: 2px solid gray; padding-bottom: 1em; margin-bottom: 2em;">
     <div style="display: flex; align-items: center; margin-bottom: 1em;">
         <img src="../assets/img/ucla.png" alt="UCLA Logo" style="width: 60px; margin-right: 20px; border-radius: 50%;">
