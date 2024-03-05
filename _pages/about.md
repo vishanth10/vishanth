@@ -18,7 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
 ## Welcome! 👋
 
 I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), specializing in Business Analytics. My journey began with a BS in Industrial Engineering and a minor in CS from [NIT-T](https://www.nitt.edu/), leading me to a role as a Software Developer at Citi's [PSM Division](http://www.citi.com), before diving deep into the realms of AI and Operations.
@@ -26,9 +25,6 @@ I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), spec
 ### Passion for Technology 🚀
 
 My expertise lies in **Generative AI and Machine Learning**, fields that are reshaping our world. With proficiency in Python, TensorFlow, and C/C++, I'm dedicated to solving complex problems and making a societal impact through technology.
-
-
-<break>
 
 ### My Mission 🌟
 
