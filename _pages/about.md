@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 ## Welcome! 👋
 
-I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), specializing in Business Analytics. My journey began with a BS in Industrial Engineering and a minor in CS from [NIT-T](https://www.nitt.edu/), leading me to a role as a Software Developer at Citi's [PSM Division](http://www.citi.com), before diving deep into the realms of AI and Operations.
+I'm Vishanth Hari Raj, a Master's student at [UCLA](https://www.ucla.edu/), specializing in Business Analytics/ Data Science. My journey began with a BS in Industrial Engineering and a minor in CS from [NIT-T](https://www.nitt.edu/), leading me to a role as a Software Developer at Citi's [PSM Division](http://www.citi.com), before diving deep into the realms of AI and Operations.
 
 ### Passion for Technology 🚀
 
